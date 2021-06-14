@@ -1,2 +1,2 @@
-# rankingProject
-Projeto desenvolvido totalmente do zero como atividade avaliativa da materia de programação orientada a objetos da Universidade Estadual do Rio Grande do norte
+# Ranking Gaming
+Projeto desenvolvido totalmente do zero como atividade avaliativa da disciplina de Programação Orientada à Objetos da Universidade Estadual do Rio Grande do Norte;
